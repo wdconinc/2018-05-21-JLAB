@@ -294,14 +294,20 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
-
+<p>
+Instructions for students how to install ROOT: https://redmine.jlab.org/projects/podd/wiki/ROOT_Installation_Guide
+</p>
 <div id="shell"> {% comment %} Start of 'shell' section. {% endcomment %}
   <h3>The Bash Shell</h3>
 
   <p>
     Bash is a commonly-used shell that gives you the power to do simple
     tasks more quickly.
-  </p>
+  </p>​
+58
+  Edit the general explanatory paragraph below if you want to change
+59
+  the pitch.
 
   <div class="row">
     <div class="col-md-4">
