@@ -295,7 +295,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 <p>
-Instructions for students how to install ROOT: https://redmine.jlab.org/projects/podd/wiki/ROOT_Installation_Guide
+Instructions for students how to install ROOT: <a href="https://redmine.jlab.org/projects/podd/wiki/ROOT_Installation_Guide">https://redmine.jlab.org/projects/podd/wiki/ROOT_Installation_Guide</a>
 </p>
 <div id="shell"> {% comment %} Start of 'shell' section. {% endcomment %}
   <h3>The Bash Shell</h3>
